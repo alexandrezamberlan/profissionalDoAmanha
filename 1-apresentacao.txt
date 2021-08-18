@@ -1,0 +1,45 @@
+Editor bem versátil - VS CODE - Microsoft
+    Java, Python, C#, C, C++, Javascript, HTML
+
+Inteligência Artificial: Área da Ciência da Computação
+    - Técnicas e metodologias para construir:
+            - Redes Neurais (machine learning)
+            - Algoritmos Genéticos
+            - Mineração de dados
+            - Sistemas Multiagentes (robôs)
+            - Métodos de Busca Heurística
+            - ...
+
+        SISTEMAS COM COMPORTAMENTO INTELIGENTE
+        - base de conhecimento com experiências acumuladas
+        - raciocínio automatizado (deduzir ou induzir)
+        - aprendizagem automática (reconhecer padrões)
+
+        Controle remoto de TV (sistema)
+            - aspectos estruturais = propriedades/características
+            - aspectos funcionais = comportamentos
+
+        Sistemas computacionais com comportamento INTELIGENTE
+        - sistema de recomendação do Netflix, MercadoLivre, Instagram, ...
+        - aspiradores de pó automatizados ...
+        - jogos eletrônicos
+        - sistemas de monitoramento de invasão em redes de computadores 
+
+        Sistemas de Comportamento Inteligente
+            Resolver 2 categorias de problemas:
+                - Diagnóstico
+                    - analisa características e seus pesos e realiza um diagnóstico
+                - 'Empacotamento' 
+                    - descobre a sequencia de passos necessários para chegar em um 
+                    resultado (final de um jogo, organização de peças, ..)
+
+
+Foco do Projeto de IA do Profissional do Amanhã:
+1) construir bases de conhecimento
+2) aplicar motor de raciocínio nas bases construídas
+3) descobrir 'fatos' ou 'situações'
+
+Linguagem de programação PROLOG
+    - Ela é uma linguagem lógica para construir sistemas inteligentes
+    - Baseada em fatos e regras
+    - Tem versão online - https://swish.swi-prolog.org
