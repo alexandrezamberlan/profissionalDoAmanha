@@ -1,0 +1,20 @@
+Sistemas Multiagentes
+    - Área da IA, inspirada no comportamento dos insetos (colônias) para resolver problemas colaborativamente.
+    - Características os agentes/seres/dispositivos/objetos precisam ter
+        - autonomia
+        - iniciativa ou proatividade
+        - adaptação ou flexibilidade
+        - comunicação -> diretivas de fala: 
+            1) depositar um fato/crença
+            2) perguntar sobre fato/crença
+            3) solicitar uma realização de um comando
+
+            tipos de comunicação:
+                1) .send
+                2) .broadcast
+
+Implementação
+    - Java
+    - AgentSpeak(L), que é um PROLOG melhorado
+    - Ferramenta JASON - http://jason.sourceforge.net/wp/
+    - Ambiente ECLIPSE - https://www.eclipse.org/downloads/
